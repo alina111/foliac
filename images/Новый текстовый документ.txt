@@ -1,0 +1,6 @@
+div position relative - all the div
+
+display block position abolute in % ---- 
+blocks in div
+
+inside div - div wirth border radius 

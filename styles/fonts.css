@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'SlimJoe';
+	src: url('../fonts/SlimJoe/SlimJoe.eot?#iefix') format('embedded-opentype'),  url('../fonts/SlimJoe/SlimJoe.otf')  format('opentype'),
+	url('../fonts/SlimJoe/SlimJoe.woff') format('woff'), url('../fonts/SlimJoe/SlimJoe.ttf')  format('truetype'), url('../fonts/SlimJoe/SlimJoe.svg#SlimJoe') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'BigJohn';
+	src: url('../fonts/BigJohn/BigJohn.eot?#iefix') format('embedded-opentype'),  url('../fonts/BigJohn/BigJohn.otf')  format('opentype'),
+	url('../fonts/BigJohn/BigJohn.woff') format('woff'), url('../fonts/BigJohn/BigJohn.ttf')  format('truetype'), url('../fonts/BigJohn/BigJohn.svg#BigJohn') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
